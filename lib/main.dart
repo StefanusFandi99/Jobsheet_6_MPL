@@ -65,9 +65,9 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           centerTitle: true,
-          backgroundColor: const Color.fromARGB(255, 0, 0, 0),
+          backgroundColor: Color.fromARGB(255, 0, 140, 255),
           title: const Text(
-            'Halo Teman',
+            'Jobsheet 6 Mobile Progamming Lanjut',
             style: TextStyle(color: Colors.white),
           ),
         ),
